@@ -1,0 +1,23 @@
+{
+  "name": "fekey-preprocessor-langext",
+  "version": "1.0.0",
+  "description": "fekey preproccessor plugin for parse swig custom tags.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmfe/fekey-preprocessor-langext.git"
+  },
+  "keywords": [
+    "extlang",
+    "fekey"
+  ],
+  "author": "flippyxu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmfe/fekey-preprocessor-langext/issues"
+  },
+  "homepage": "https://github.com/wmfe/fekey-preprocessor-langext#readme"
+}
